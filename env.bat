@@ -1,0 +1,1 @@
+call NSHE/Scripts/activate.bat
